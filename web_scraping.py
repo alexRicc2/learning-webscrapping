@@ -5,11 +5,14 @@ url = "https://commerce-roan-nine-15.vercel.app/"
 result = requests.get(url)
 
 with open ("index.html", "r") as f:
-  doc2 = BeautifulSoup(f, "html.parser")
+  soup = BeautifulSoup(f, "lxml")
 
-text = doc2.find_all("p")
+courses_cards = soup.find_all('div', class_='card')
+for card in courses_cards:
+  course_name = card.h5.text
+  course_price = card.button.text.split()[-1]
 
-doc = BeautifulSoup(result.text, "html.parser")
-prices = doc.find_all("span").encode("utf-8")
+  print(f'{course_name} costs {course_price}')
+
+
   
-print(prices)
