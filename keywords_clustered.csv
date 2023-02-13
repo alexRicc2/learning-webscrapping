@@ -1,0 +1,602 @@
+,Keyword,Cluster
+0,dog food near me,near
+1,cat food near me,near
+2,dog food on sale near me,near
+3,dog food shop near me,near
+4,cat food near me,near
+5,cat food shop near me,near
+6,dog food nearby,near
+7,dog food near me,near
+8,dog food store near me,near
+9,cat food near me open now,near
+10,dog food donations near me,near
+11,dog food jobs near me,near
+12,dog food brands,brands
+13,dog food brands,brands
+14,cat food brands,brands
+15,cat food brands,brands
+16,dog food brands to avoid,brands
+17,cat food brands to avoid,brands
+18,dog food brands to avoid uk,brands
+19,dog food uk brands,brands
+20,dog food brands list,brands
+21,cat food gravy,gravy
+22,dog food gravy,gravy
+23,cat food in gravy,gravy
+24,cat food just gravy,gravy
+25,dog food gravy topper,gravy
+26,cat food gravy only,gravy
+27,cat food gravy recipe,gravy
+28,cat food jelly vs gravy,gravy
+29,cat food with gravy,gravy
+30,dog food for sensitive stomach,stomach
+31,cat food for sensitive stomach,stomach
+32,dog food upset stomach,stomach
+33,cat food sensitive stomach,stomach
+34,dog food for sensitive stomach,stomach
+35,dog food easy on stomach,stomach
+36,cat food upset stomach,stomach
+37,dog food sensitive stomach,stomach
+38,dog food yellow bag,bag
+39,cat food yellow bag,bag
+40,dog food green bag,bag
+41,cat food green bag,bag
+42,cat food orange bag,bag
+43,cat food yang bagus,bag
+44,cat food bag,bag
+45,dog food bag,bag
+46,cat food large bag,bag
+47,dog food container,container
+48,dog food storage container,container
+49,dog food container,container
+50,cat food container,container
+51,dog food container,container
+52,cat food storage container,container
+53,dog food storage container,container
+54,dog food dispenser,dispenser
+55,cat food dispenser,dispenser
+56,cat food dispenser,dispenser
+57,cat food dispenser timer,dispenser
+58,cat food and water dispenser,dispenser
+59,xiaomi cat food dispenser,dispenser
+60,dog food dispenser,dispenser
+61,dog food online,online
+62,cat food online,online
+63,dog food online delivery,online
+64,cat food online delivery,online
+65,cat food online,online
+66,dog food order online,online
+67,cat food qatar online,online
+68,cat food urinary health,urinary
+69,dog food urinary health,urinary
+70,cat food for urinary health,urinary
+71,cat food urinary so,urinary
+72,cat food urinary care c/d,urinary
+73,cat food urinary stress,urinary
+74,dog food urinary so,urinary
+75,dog food for sensitive stomach,sensitive
+76,cat food for sensitive stomach,sensitive
+77,dog food for sensitive skin,sensitive
+78,cat food sensitive stomach,sensitive
+79,dog food for sensitive stomach,sensitive
+80,dog food sensitive stomach,sensitive
+81,dog food price,price
+82,cat food price,price
+83,cat food price in pakistan,price
+84,cat food price,price
+85,cat food price in bd,price
+86,cat food low price,price
+87,dog food storage container,storage
+88,dog food storage,storage
+89,cat food storage container,storage
+90,cat food storage,storage
+91,dog food storage container,storage
+92,dog food storage,storage
+93,cat food shortage,shortage
+94,cat food shortage,shortage
+95,cat food shortage 2023,shortage
+96,dog food shortage,shortage
+97,cat food shortage 2023,shortage
+98,cat food shortage 2022,shortage
+99,dog food brands to avoid,avoid
+100,dog food ingredients to avoid,avoid
+101,cat food brands to avoid,avoid
+102,dog food brands to avoid uk,avoid
+103,cat food ingredients to avoid,avoid
+104,cat food you should avoid,avoid
+105,dog food delivery,delivery
+106,dog food delivery service,delivery
+107,cat food delivery,delivery
+108,dog food online delivery,delivery
+109,cat food online delivery,delivery
+110,cat food delivery service,delivery
+111,dog food quality,quality
+112,dog food quality ratings,quality
+113,cat food quality,quality
+114,dog food quality chart,quality
+115,cat food quality checker,quality
+116,cat food quality website,quality
+117,cat food you can make at home,can
+118,dog food royal canin,can
+119,cat food royal canin,can
+120,cat food can,can
+121,dog food can,can
+122,dog food you can make at home,can
+123,dog food can,can
+124,cat food can covers,can
+125,dog food walmart,walmart
+126,cat food walmart,walmart
+127,dog food at walmart,walmart
+128,cat food at walmart,walmart
+129,cat food walmart,walmart
+130,cat food jelly,jelly
+131,cat food jelly only,jelly
+132,dog food jelly bean,jelly
+133,dog food jelly,jelly
+134,cat food jelly vs gravy,jelly
+135,cat food vs dog food,vs
+136,cat food vs kitten food,vs
+137,dog food vs cat food,vs
+138,dog food vs human food,vs
+139,cat food jelly vs gravy,vs
+140,dog food for allergies,allergies
+141,dog food allergies,allergies
+142,cat food for allergies,allergies
+143,cat food allergies,allergies
+144,dog food good for allergies,allergies
+145,dog food eukanuba,uk
+146,dog food uk,uk
+147,cat food uk,uk
+148,dog food brands to avoid uk,uk
+149,dog food reviews uk,uk
+150,dog food uk brands,uk
+151,cat food yang bikin gemuk,uk
+152,dog food untuk puppy,uk
+153,cat food bowl,bowl
+154,dog food bowl,bowl
+155,cat food and water bowls,bowl
+156,dog food and water bowl,bowl
+157,dog food bowl stand,bowl
+158,cat food bowl,bowl
+159,cat food kidney disease,kidney
+160,dog food kidney disease,kidney
+161,cat food for kidney disease,kidney
+162,dog food for kidney disease,kidney
+163,cat food kidney care,kidney
+164,dog food without chicken,without
+165,cat food without xanthan gum,without
+166,cat food without chicken,without
+167,dog food without yeast,without
+168,dog food without corn,without
+169,cat food yearly cost,cost
+170,cat food costco,cost
+171,dog food costco,cost
+172,dog food costco,cost
+173,dog food cost,cost
+174,cat food cost,cost
+175,dog food cost,cost
+176,dog food at costco,cost
+177,dog food yearly cost,cost
+178,dog food recalls 2022,2022
+179,cat food recall 2022,2022
+180,dog food killing dogs 2022,2022
+181,dog food reviews 2022,2022
+182,cat food shortage 2022,2022
+183,dog food killing dogs 2022,dogs
+184,dog food for small dogs,dogs
+185,dog food for senior dogs,dogs
+186,cat food bad for dogs,dogs
+187,cat food good for dogs,dogs
+188,dog food grain free,grain
+189,cat food grain free,grain
+190,dog food grain free or not,grain
+191,dog food with grain,grain
+192,dog food grain free,free
+193,cat food grain free,free
+194,dog food grain free or not,free
+195,dog food yeast free,free
+196,dog food ingredients,ingredients
+197,cat food ingredients,ingredients
+198,dog food ingredients to avoid,ingredients
+199,cat food ingredients to avoid,ingredients
+200,dog food recipes,recipes
+201,cat food recipes,recipes
+202,dog food recipes,recipes
+203,cat food recipes,recipes
+204,cat food mat,mat
+205,dog food mat,mat
+206,dog food mat large,mat
+207,dog food mat waterproof,mat
+208,cat food urinary health,health
+209,dog food joint health,health
+210,dog food urinary health,health
+211,cat food for urinary health,health
+212,dog food healthy,health
+213,cat food healthy,health
+214,dog food on sale,sale
+215,cat food on sale,sale
+216,dog food on sale near me,sale
+217,dog food wholesale,sale
+218,cat food wholesale,sale
+219,cat food sale,sale
+220,dog food reviews,reviews
+221,cat food reviews,reviews
+222,dog food reviews uk,reviews
+223,dog food reviews 2022,reviews
+224,cat food amazon,amazon
+225,cat food on amazon,amazon
+226,dog food on amazon,amazon
+227,dog food amazon,amazon
+228,cat food kidney disease,disease
+229,dog food kidney disease,disease
+230,cat food for kidney disease,disease
+231,dog food for kidney disease,disease
+232,dog food calculator,calculator
+233,dog food calculator,calculator
+234,cat food calculator,calculator
+235,cat food quantity calculator,calculator
+236,dog food high in protein,high
+237,dog food high in fiber,high
+238,cat food high in fiber,high
+239,cat food high protein,high
+240,dog food without chicken,chicken
+241,cat food without chicken,chicken
+242,dog food no chicken,chicken
+243,cat food no chicken,chicken
+244,dog food you add water to,water
+245,cat food and water bowls,water
+246,dog food and water bowl,water
+247,dog food mat waterproof,water
+248,cat food and water dispenser,water
+249,cat food natural,natural
+250,dog food natural balance,natural
+251,cat food natural balance,natural
+252,dog food natural,natural
+253,cat food costco,costco
+254,dog food costco,costco
+255,dog food costco,costco
+256,dog food at costco,costco
+257,dog food advisor,advisor
+258,dog food advisor,advisor
+259,cat food advisor,advisor
+260,dog food list,list
+261,cat food list,list
+262,dog food brands list,list
+263,dog food yellow bag,yellow
+264,cat food yellow bag,yellow
+265,cat food yellow,yellow
+266,cat food allergy symptoms,allergy
+267,dog food allergy symptoms,allergy
+268,dog food allergy test,allergy
+269,cat food allergy symptoms,symptoms
+270,dog food allergy symptoms,symptoms
+271,dog food intolerance symptoms,symptoms
+272,cat food expiration date,expiration
+273,dog food expiration,expiration
+274,dog food expiration date,expiration
+275,cat food kitten,kitten
+276,cat food for kitten,kitten
+277,cat food vs kitten food,kitten
+278,cat food qatar,qatar
+279,dog food qatar,qatar
+280,cat food qatar online,qatar
+281,dog food in bulk,bulk
+282,cat food in bulk,bulk
+283,cat food bulk,bulk
+284,dog food tractor supply,tractor
+285,dog food at tractor supply,tractor
+286,cat food tractor supply,tractor
+287,dog food tractor supply,supply
+288,dog food at tractor supply,supply
+289,cat food tractor supply,supply
+290,dog food yakuza kiwami,yakuza
+291,dog food yakuza 3,yakuza
+292,cat food yakuza 6,yakuza
+293,cat food coles,coles
+294,dog food coles,coles
+295,dog food coles,coles
+296,cat food quantity,quantity
+297,dog food quantity,quantity
+298,cat food quantity calculator,quantity
+299,cat food homemade,home
+300,dog food homemade,home
+301,cat food you can make at home,home
+302,dog food you can make at home,home
+303,cat food at home,home
+304,dog food high in protein,protein
+305,cat food high protein,protein
+306,dog food hydrolyzed protein,protein
+307,dog food nutrition,nutrition
+308,cat food nutrition,nutrition
+309,dog food nutrition facts,nutrition
+310,dog food yeast infection,yeast
+311,dog food yeast free,yeast
+312,dog food without yeast,yeast
+313,dog food ziwi,ziwi
+314,cat food ziwi peak,ziwi
+315,dog food ziwi peak,ziwi
+316,cat food coupons,coupons
+317,dog food coupons,coupons
+318,dog food coupons,coupons
+319,cat food lidl,lid
+320,cat food lid,lid
+321,dog food lidl,lid
+322,dog food lid backwards,lid
+323,dog food lid,lid
+324,dog food purina,purina
+325,cat food purina,purina
+326,cat food purina one,purina
+327,dog food quotes,quotes
+328,cat food quotes,quotes
+329,dog food quotes and sayings,quotes
+330,dog food usa,usa
+331,cat food usa,usa
+332,dog food made in usa,usa
+333,cat food vet recommended,recommended
+334,dog food recommended by vets,recommended
+335,dog food vet recommended,recommended
+336,dog food blue buffalo,blue
+337,cat food blue buffalo,blue
+338,dog food blue,blue
+339,dog food donations,donations
+340,dog food donations near me,donations
+341,cat food donations,donations
+342,dog food high in fiber,fiber
+343,cat food high in fiber,fiber
+344,cat food with fiber,fiber
+345,dog food mat large,large
+346,dog food large breed,large
+347,cat food large bag,large
+348,dog food to help gain weight,gain
+349,cat food to gain weight,gain
+350,cat food for weight gain,gain
+351,dog food to help gain weight,weight
+352,cat food to gain weight,weight
+353,cat food for weight gain,weight
+354,cat food good for cats,good
+355,dog food good for allergies,good
+356,cat food good for dogs,good
+357,cat food one,one
+358,dog food one,one
+359,cat food purina one,one
+360,dog food holder,holder
+361,cat food holder,holder
+362,dog food kibble,kibble
+363,dog food kibbles and bits,kibble
+364,cat food kibble,kibble
+365,dog food meaning,meaning
+366,dog food meaning,meaning
+367,dog food quiz,quiz
+368,cat food quiz,quiz
+369,cat food expiration date,date
+370,dog food expiration date,date
+371,cat food homemade,homemade
+372,dog food homemade,homemade
+373,cat food tray,tray
+374,dog food tray,tray
+375,dog food comparison,comparison
+376,dog food comparison,comparison
+377,dog food enhancer,enhancer
+378,cat food enhancer,enhancer
+379,dog food jar,jar
+380,cat food jar,jar
+381,dog food kroger,kroger
+382,cat food kroger,kroger
+383,dog food lyrics,lyrics
+384,cat food lyrics,lyrics
+385,dog food woolworths,woolworths
+386,cat food woolworths,woolworths
+387,cat food dry,dry
+388,dog food dry,dry
+389,cat food egypt,egypt
+390,dog food egypt,egypt
+391,cat food lidl,lidl
+392,dog food lidl,lidl
+393,cat food puzzle,puzzle
+394,dog food puzzle,puzzle
+395,cat food shortage 2023,2023
+396,cat food shortage 2023,2023
+397,cat food tesco,tesco
+398,dog food tesco,tesco
+399,cat food wet,wet
+400,dog food wet,wet
+401,xanthan gum in cat food,xanthan
+402,cat food without xanthan gum,xanthan
+403,xanthan gum in cat food,gum
+404,cat food without xanthan gum,gum
+405,cat food you can make at home,make
+406,dog food you can make at home,make
+407,cat food z/d,z/d
+408,dog food z/d,z/d
+409,dog food delivery service,service
+410,cat food delivery service,service
+411,dog food green bag,green
+412,cat food green bag,green
+413,dog food ireland,ireland
+414,cat food ireland,ireland
+415,dog food lamb and rice,lamb
+416,dog food lamb,lamb
+417,dog food measuring cup,measuring
+418,cat food measuring cup,measuring
+419,dog food measuring cup,cup
+420,cat food measuring cup,cup
+421,dog food recalls,recalls
+422,dog food recalls 2022,recalls
+423,dog food shop near me,shop
+424,cat food shop near me,shop
+425,cat food expensive,expensive
+426,dog food expensive,expensive
+427,cat food meow mix,meow
+428,cat food meow,meow
+429,cat food nz,nz
+430,dog food nz,nz
+431,cat food offers,offers
+432,dog food offers,offers
+433,cat food pouches,pouches
+434,dog food pouches,pouches
+435,dog food recalls,recall
+436,cat food recall,recall
+437,dog food recalls 2022,recall
+438,cat food recall 2022,recall
+439,cat food target,target
+440,dog food target,target
+441,cat food ziwi peak,peak
+442,dog food ziwi peak,peak
+443,dog food ebt,ebt
+444,cat food ebt,ebt
+445,dog food guide,guide
+446,cat food guide,guide
+447,dog food hypoallergenic,hypoallergenic
+448,cat food hypoallergenic,hypoallergenic
+449,dog food jobs,jobs
+450,dog food jobs near me,jobs
+451,dog food label,label
+452,cat food label,label
+453,dog food orijen,orijen
+454,cat food orijen,orijen
+455,dog food royal canin,royal
+456,cat food royal canin,royal
+457,dog food royal canin,canin
+458,cat food royal canin,canin
+459,dog food subscription,subscription
+460,cat food subscription,subscription
+461,cat food hills,hills
+462,dog food hills,hills
+463,cat food iams,iams
+464,dog food iams,iams
+465,dog food yellow bag,low
+466,cat food yellow bag,low
+467,cat food yellow,low
+468,cat food low in phosphorus,low
+469,cat food low price,low
+470,cat food price in pakistan,pakistan
+471,cat food in pakistan,pakistan
+472,cat food vet recommended,vet
+473,dog food recommended by vets,vet
+474,dog food vet recommended,vet
+475,cat food whiskas,whiskas
+476,whiskas cat food x40,whiskas
+477,cat food yearly cost,yearly
+478,dog food yearly cost,yearly
+479,dog food blue buffalo,buffalo
+480,cat food blue buffalo,buffalo
+481,dog food jumia,jumia
+482,cat food jumia,jumia
+483,dog food kenya,kenya
+484,cat food kenya,kenya
+485,dog food store near me,store
+486,dog food store,store
+487,dog food upset stomach,upset
+488,cat food upset stomach,upset
+489,dog food with probiotics,probiotics
+490,cat food with probiotics,probiotics
+491,cat food gastrointestinal,gastrointestinal
+492,dog food gastrointestinal,gastrointestinal
+493,cat food logo,logo
+494,dog food logo,logo
+495,dog food toppers,topper
+496,cat food topper,topper
+497,dog food gravy topper,topper
+498,cat food vitamins,vitamins
+499,dog food vitamins,vitamins
+500,cat food zooplus,zoo
+501,cat food zoo,zoo
+502,cat food zoo med,zoo
+503,dog food bowl stand,stand
+504,dog food stand,stand
+505,dog food dollar general,dollar
+506,cat food dollar general,dollar
+507,dog food dollar general,general
+508,cat food dollar general,general
+509,dog food healthy,healthy
+510,cat food healthy,healthy
+511,dog food ingredient checker,checker
+512,cat food quality checker,checker
+513,dog food jokes,jokes
+514,cat food jokes,jokes
+515,dog food natural balance,balance
+516,cat food natural balance,balance
+517,dog food puppy,puppy
+518,dog food untuk puppy,puppy
+519,dog food venison,venison
+520,cat food venison,venison
+521,dog food wholesale,wholesale
+522,cat food wholesale,wholesale
+523,cat food dispenser timer,timer
+524,cat food timer,timer
+525,cat food easy to digest,easy
+526,dog food easy on stomach,easy
+527,cat food good for cats,cats
+528,cat food for diabetic cats,cats
+529,cat food urinary care c/d,care
+530,cat food kidney care,care
+531,cat food variety pack,variety
+532,cat food variety,variety
+533,cat food yang bagus,yang
+534,cat food yang bikin gemuk,yang
+535,dog food in india,india
+536,cat food india,india
+537,dog food kmart,kmart
+538,cat food kmart,kmart
+539,dog food plate,plate
+540,cat food plate,plate
+541,cat food deals,deals
+542,dog food deals,deals
+543,cat food raw,raw
+544,dog food raw,raw
+545,xoxo cat food,xoxo
+546,xoxo cat food review,xoxo
+547,cat food youtube,youtube
+548,dog food youtube,youtube
+549,dog food heb,heb
+550,cat food heb,heb
+551,dog food specials,specials
+552,cat food specials,specials
+553,dog food companies,companies
+554,dog food companies,companies
+555,dog food specials,special
+556,dog food on special,special
+557,cat food specials,special
+558,cat food on special,special
+559,dog food zelda,zelda
+560,dog food zelda link's awakening,zelda
+561,cat food habits,habits
+562,dog food habits,habits
+563,dog food machine,machine
+564,cat food machine,machine
+565,dog food petsmart,petsmart
+566,cat food petsmart,petsmart
+567,dog food eukanuba,eukanuba
+568,dog food james wellbeloved,james
+569,dog food james wellbeloved,wellbeloved
+570,dog food toppers,toppers
+571,dog food urban dictionary,urban
+572,dog food urban dictionary,dictionary
+573,dog food vault,vault
+574,dog food zignature,zignature
+575,cat food xxl,xxl
+576,cat food zooplus,zooplus
+577,dog food name,name
+578,cat food names,name
+579,dog food pedigree,pedigree
+580,dog food victor,victor
+581,dog food xploshi,xploshi
+582,dog food yakuza kiwami,kiwami
+583,dog food zimbabwe,zimbabwe
+584,cat food meme,meme
+585,cat food names,names
+586,cat food vegetarian,vegetarian
+587,dog food exposed,exposed
+588,dog food for puppies,puppies
+589,dog food joint health,joint
+590,dog food kibbles and bits,kibbles
+591,dog food kibbles and bits,bits
+592,cat food habits,bits
+593,dog food habits,bits
+594,dog food price,rice
+595,cat food price,rice
+596,dog food lamb and rice,rice
+597,cat food price in pakistan,rice
+598,cat food price,rice
+599,cat food price in bd,rice
+600,cat food low price,rice
